@@ -1,7 +1,0 @@
-AMP allows anyone to build and contribute their own configurations for AMP to add support for new applications. These templates can be found at the [AMP Templates Repository](https://github.com/CubeCoders/AMPTemplates) where you can see how they are built and what they do. The configurations for all templates included with AMP are publicly available for review and scrutiny.
-
-CubeCoders validates that the templates are reasonably safe and follow the same patterns and design as our own templates. However we obviously cannot take any responsibility for 3rd party software that AMP downloads on your behalf - the safety and security of that software would be the responsibility of its developer. We do take reasonable steps to perform sanity checking that the template is reasonable in so far as it is only downloading software from reputable sources (such as Steam) and only making the required changes in order to support the application.
-
-If you have concerns about using these configurations, then we'd recommend making use of AMPs  Docker functionality on Linux to isolate these instances from the rest of your system.
-
-[Read more about custom AMP templates](https://github.com/CubeCoders/AMPTemplates#readme)
