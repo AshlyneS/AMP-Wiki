@@ -1,0 +1,1 @@
+See https://github.com/CubeCoders/AMP/wiki/Configuring-AMP-for-Enterprise-or-Network-Usage
